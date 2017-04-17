@@ -3,12 +3,14 @@
   padding: 20px;
   background-color: yellow;
   width:40%;
-
+  height:30%;
+  margin-top: 10px;
 }
 .cuadroRosa{
   display: block;
   padding: 20px;
   background-color: pink;
   width:40%;
-
+  height:30%;
+  margin-top: 10px;
 }
