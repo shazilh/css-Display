@@ -1,0 +1,14 @@
+.cuadrosAmarillos{
+  display: block;
+  padding: 20px;
+  background-color: yellow;
+  width:40%;
+
+}
+.cuadroRosa{
+  display: block;
+  padding: 20px;
+  background-color: pink;
+  width:40%;
+
+}
